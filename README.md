@@ -7,7 +7,7 @@ I'm Jakub, I'm currently looking for a job as Junior Java Developer!
     *Hibernate,
     *Spring Data JPA,etc.
     
-- 📫 How to reach me: @JakubZdunczuk(Github)
+- 📫 How to reach me: <a href="https://github.com/JakubZdunczuk"Github</a> or <a href ="https://www.linkedin.com/in/jakub-zdunczuk/">LinkedIn</a>
 
 ![](https://komarev.com/ghpvc/?username=JakubZdunczuk&color=blue)
 
