@@ -10,6 +10,7 @@ I'm Jakub, I'm currently looking for a job as Junior Java Developer!
 - 📫 How to reach me: @JakubZdunczuk(Github)
 
 
-Profile Hits:[![HitCount](http://hits.dwyl.com/JakubZdunczuk/JakubZdunczuk.svg?style=flat-square)](http://hits.dwyl.com/JakubZdunczuk/JakubZdunczuk)
+Profile Hits:![](https://komarev.com/ghpvc/?username=JakubZdunczuk&color=blue)
+
 
 Thanks for visiting my Github and have a nice day!
