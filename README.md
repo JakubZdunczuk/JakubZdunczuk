@@ -1,11 +1,19 @@
 ### Hi there 👋
-I'm Jakub, I'm currently looking for a job as Junior Java Developer!
+I'm Jakub, Java Developer!
 
-- 🔭 I’m currently working on another project based on:
-    *Spring Boot,
-    *Spring Form,
-    *Hibernate,
-    *Spring Data JPA,etc.
+- 🔭 Tech stack:
+  *Java 21
+  *Spring,
+  *Micronaut,
+  *Hibernate,
+  *REST API,
+  *TypeScript, Angular,
+  *Spock, Groovy,
+  *K8S,
+  *Docker, Docker-compose,
+  *Maven, Gradle,
+  *MongoDB
+  *Git
     
 - 📫 How to reach me: <a href ="https://www.linkedin.com/in/jakub-zdunczuk/">LinkedIn</a>
 
